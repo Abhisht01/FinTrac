@@ -1,0 +1,6 @@
+*.pyc
+*.ipynb_checkpoints
+*.git
+*.github
+*__pycache__
+*.DS_Store
